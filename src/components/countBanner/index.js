@@ -1,7 +1,8 @@
 import React from "react";
+import PropTypes from "prop-types";
 import "./style.css";
 
-const CountBanner = props => {
+const CountBanner = ({ count }) => {
   const colors = [
     "#ff0000",
     "#ffa500",
@@ -11,14 +12,15 @@ const CountBanner = props => {
     "#4b0082",
     "#ee82ee"
   ];
-  let countArray = new Array(props.count).fill(0);
+  let countArray = new Array(count).fill(0);
   return (
     <div className="countFlex">
-      <h1>{props.count}</h1>
+      <h1>{count}</h1>
       <div className="blockWrap">
         <div style={{ display: "flex", flexWrap: "wrap" }}>
-          {countArray.map((count, i) => (
+          {countArray.map((c, i) => (
             <div
+              key={i}
               className="tinyBlock"
               style={{ background: colors[i % colors.length] }}
             ></div>
@@ -29,3 +31,11 @@ const CountBanner = props => {
   );
 };
 export default CountBanner;
+
+CountBanner.propTypes = {
+  count: PropTypes.number
+};
+
+CountBanner.defaultProps = {
+  count: 0
+};

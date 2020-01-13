@@ -1,0 +1,918 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button Add On Button 1`] = `
+<div
+  className="button"
+  onClick={[Function]}
+>
+  AddOn
+</div>
+`;
+
+exports[`Storyshots countBanner Empty Banner 1`] = `
+<div
+  className="countFlex"
+>
+  <h1>
+    0
+  </h1>
+  <div
+    className="blockWrap"
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flexWrap": "wrap",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots countBanner Full Banner 1`] = `
+<div
+  className="countFlex"
+>
+  <h1>
+    100
+  </h1>
+  <div
+    className="blockWrap"
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flexWrap": "wrap",
+        }
+      }
+    >
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#4b0082",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ee82ee",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots countBanner Non Empty Banner 1`] = `
+<div
+  className="countFlex"
+>
+  <h1>
+    5
+  </h1>
+  <div
+    className="blockWrap"
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+          "flexWrap": "wrap",
+        }
+      }
+    >
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ff0000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffa500",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#ffff00",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#008000",
+          }
+        }
+      />
+      <div
+        className="tinyBlock"
+        style={
+          Object {
+            "background": "#0000ff",
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;
